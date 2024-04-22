@@ -1,3 +1,3 @@
-for _ in range(3):
-    print('hello')
+for _ in range(5):
+    print('hi')
 
